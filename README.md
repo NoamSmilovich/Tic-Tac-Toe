@@ -21,7 +21,7 @@ Starting the server program should look something like this: ```Server.exe <logf
 * logfile -- Path to the output log file
 * server port -- The server's port address
 
-Example: ![teamwork-cat-dog](JPGs/server command.JPG)
+Example: <img>(JPGs/server command.JPG)
 
 Starting the client program should look like this: ```Client.exe <logfile> <server ip> <server port> <username>```
 * logfile -- Path to the output log file
@@ -29,7 +29,7 @@ Starting the client program should look like this: ```Client.exe <logfile> <serv
 * server port -- The server's port address
 * username -- The username
 
-Example: ![teamwork-cat-dog](JPGs/client command.JPG)
+Example: <img>(JPGs/client command.JPG)
 
 **You may also run a server and client program (Or even server program and 2 client programs) on the same PC, by using the localhost address as the ip: ```127.0.0.1```**
 
